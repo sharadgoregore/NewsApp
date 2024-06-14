@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 children: <Widget>[
                   Container(
                     height: 50.sp,
-                    color: const Color.fromARGB(255, 126, 41, 141),
+                    color:  Color.fromARGB(255, 126, 41, 141),
                   ),
                   SizedBox(
                     height: 20.sp,
